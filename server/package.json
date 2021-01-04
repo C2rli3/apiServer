@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "google-trends-api": "^4.9.0"
+  }
+}
